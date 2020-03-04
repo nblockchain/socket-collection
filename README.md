@@ -2,7 +2,7 @@
 
 |Crate|Documentation|Linux/macOS/Windows|
 |:---:|:-----------:|:-----------------:|
-| [![](http://meritbadge.herokuapp.com/socket-collection)](https://crates.io/crates/socket-collection) | [![Documentation](https://docs.rs/socket-collection/badge.svg)](https://docs.rs/socket-collection) | [![Build Status](https://travis-ci.com/ekutt/socket-collection.svg?branch=master)](https://travis-ci.com/ekutt/socket-collection)
+| [![](http://meritbadge.herokuapp.com/socket-collection)](https://crates.io/crates/socket-collection) | [![Documentation](https://docs.rs/socket-collection/badge.svg)](https://docs.rs/socket-collection) | [![Build Status](![Rust](https://github.com/ekutt/socket-collection/workflows/Rust/badge.svg))](![Rust](https://github.com/ekutt/socket-collection/workflows/Rust/badge.svg))
 
 The goal of this crate is to provide a collection of async sockets which can be
 used out of the box with `mio` event loop. As a simple example, using stream
